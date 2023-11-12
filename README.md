@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liv-coder-sys
+- 👋 Hi, I’m @Livi-coder-sys
 - 👀 I’m interested in  Artiicial Intelligence.
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on Web Development Projects
